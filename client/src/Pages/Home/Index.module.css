@@ -1,0 +1,187 @@
+.sectionheader{
+    background-image: url("https://theboxdepot.net/wp-content/uploads/2022/01/shutterstock_1754848424.jpg");
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+    color: white;
+    position: relative;
+}
+.header{
+    left: 10%;
+    top: 30%;
+    position: absolute;
+    width: 32%;
+    height: 320px;
+    display: grid;
+}
+.customer{
+    width: 1200px;
+    margin: auto;
+    margin-top: 80px;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}
+.card{
+    width: 250px;
+    height: 150px;
+    margin: auto;
+    display: grid;
+}
+.card img{
+border-radius: 50%;
+width: 50px;
+height: 50px;
+}
+.customersdiv{
+    width: 1350px;
+    margin: auto;
+    border: 5px solid black;
+    height: 90vh;
+    
+}
+
+.customerwwrap{
+    flex-wrap: wrap;
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+}
+.customercard{
+    margin-top: 50px;
+    display: flex;
+    width: 300px;
+    background-color: white;
+    height: 200px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.customers{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: RGB(221, 220, 221);
+    height: 100vh;
+}
+.bankir h2{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.header h1{
+    font-weight:700 ;
+    font-size: 50px;
+}
+.header h2{
+    font-weight:400 ;
+    font-size: 50px;
+}
+.header p{
+    font-weight:200 ;
+    font-size: 25px;
+}
+.sectionarea{
+    width: 100%;
+    height: 80vh;
+    background-color:rgb(221, 220, 221);
+}
+.areaheader{
+    width: 1200px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.area{
+    width: 1200px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    
+}
+.areacards{
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.areacard{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.areacardmain{
+    
+    width: 250px;
+    height: 150px;
+}
+.areacardmain p{
+    margin-top: 10px;
+    opacity: .5;
+}
+.provider{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.solution{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.providetext{
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.providertext{
+width: 329px;
+height: 320px;
+display: grid;
+}
+.providertext span{
+    background-color:antiquewhite;
+    width:180px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.solutiontext{
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.solutionstext{
+width: 329px;
+height: 320px;
+display: grid;
+}
+.solutionstext span{
+    background-color:antiquewhite;
+    width:180px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

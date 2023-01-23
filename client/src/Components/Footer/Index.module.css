@@ -1,0 +1,26 @@
+.footer{
+background-image: url("https://teanecklibrary.org/wp-content/uploads/2021/07/Notary.png");
+width: 100%;
+height: 700px;
+background-repeat: no-repeat;
+background-size: 100%;
+align-items: center;
+justify-content: center;
+display: flex;
+color: white;
+}
+.foot{
+    width: 1200px;
+    margin: auto;
+}
+.foot hr{
+    height: 1px;
+        background-color: rgb(99, 99, 99);
+        border: none;
+}
+.foottext{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
